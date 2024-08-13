@@ -35,4 +35,4 @@ npm start / npm run build
 
 ### Meta
 
-Hourmeng Khy
+Parag
